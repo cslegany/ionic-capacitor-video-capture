@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-video-capture",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
